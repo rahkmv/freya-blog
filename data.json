@@ -1,0 +1,26 @@
+{
+  "player": {
+    "username": "comeeee",
+    "rank": "Mythic",
+    "games": 1250,
+    "winRate": 68.5,
+    "mainHero": "Freya",
+    "region": "Europe"
+  },
+  
+  "hero": {
+    "name": "Freya",
+    "title": "Valkiriya Malikasi",
+    "role": "Fighter",
+    "specialty": "Charge/Burst",
+    "lane": "Exp Lane",
+    "difficulty": "Medium",
+    "releaseDate": "2017"
+  },
+  
+  "contact": {
+    "gameId": "123456789",
+    "discord": "freya_valkyrie#1234",
+    "email": "freya.valkyrie@mlbb.com"
+  }
+}
